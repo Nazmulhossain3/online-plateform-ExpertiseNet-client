@@ -1,0 +1,123 @@
+[
+    {
+      
+      "courseName": "Introduction to Python Programming",
+      "courseImage": "url_to_course_image_1.jpg",
+      "instructorName": "John Smith",
+      "courseContent": "This course covers the fundamentals of Python programming...",
+      "instructorImage": "url_to_instructor_image_1.jpg",
+      "reviews": [
+        {"username": "Student1", "comment": "Great course!", "rating": 4.5},
+        {"username": "Student2", "comment": "Excellent content.", "rating": 5.0}
+      ]
+    },
+    {
+   
+      "courseName": "Web Development with React",
+      "courseImage": "url_to_course_image_2.jpg",
+      "instructorName": "Jane Doe",
+      "courseContent": "Learn React.js and build interactive web applications...",
+      "instructorImage": "url_to_instructor_image_2.jpg",
+      "reviews": [
+        {"username": "Student3", "comment": "Very useful course!", "rating": 4.0},
+        {"username": "Student4", "comment": "Instructor is knowledgeable.", "rating": 4.5}
+      ]
+    },
+    {
+     
+      "courseName": "Data Science Essentials",
+      "courseImage": "url_to_course_image_3.jpg",
+      "instructorName": "Emily Johnson",
+      "courseContent": "Explore the essentials of data science and machine learning...",
+      "instructorImage": "url_to_instructor_image_3.jpg",
+      "reviews": [
+        {"username": "Student5", "comment": "Very informative!", "rating": 4.2},
+        {"username": "Student6", "comment": "Practical examples are great.", "rating": 4.8}
+      ]
+    },
+    {
+    
+      "courseName": "JavaScript Fundamentals",
+      "courseImage": "url_to_course_image_4.jpg",
+      "instructorName": "Alex Turner",
+      "courseContent": "Learn the basics of JavaScript programming...",
+      "instructorImage": "url_to_instructor_image_4.jpg",
+      "reviews": [
+        {"username": "Student7", "comment": "Clear explanations!", "rating": 4.5},
+        {"username": "Student8", "comment": "Enjoyed the hands-on exercises.", "rating": 4.0}
+      ]
+    },
+    {
+    
+      "courseName": "Mobile App Development with Flutter",
+      "courseImage": "url_to_course_image_5.jpg",
+      "instructorName": "Sarah Martinez",
+      "courseContent": "Build cross-platform mobile apps with Flutter framework...",
+      "instructorImage": "url_to_instructor_image_5.jpg",
+      "reviews": [
+        {"username": "Student9", "comment": "Great course for mobile devs!", "rating": 4.7},
+        {"username": "Student10", "comment": "Instructor is engaging.", "rating": 4.5}
+      ]
+    },
+    {
+      
+      "courseName": "UX/UI Design Principles",
+      "courseImage": "url_to_course_image_6.jpg",
+      "instructorName": "Michael Brown",
+      "courseContent": "Explore the principles of user experience and interface design...",
+      "instructorImage": "url_to_instructor_image_6.jpg",
+      "reviews": [
+        {"username": "Student11", "comment": "Very insightful!", "rating": 4.2},
+        {"username": "Student12", "comment": "Helped improve my design skills.", "rating": 4.8}
+      ]
+    },
+    {
+  
+      "courseName": "Cybersecurity Fundamentals",
+      "courseImage": "url_to_course_image_7.jpg",
+      "instructorName": "Chris Anderson",
+      "courseContent": "Learn the basics of cybersecurity and online safety...",
+      "instructorImage": "url_to_instructor_image_7.jpg",
+      "reviews": [
+        {"username": "Student13", "comment": "Essential for anyone online.", "rating": 4.5},
+        {"username": "Student14", "comment": "Instructor is knowledgeable.", "rating": 4.0}
+      ]
+    },
+    {
+    
+      "courseName": "Artificial Intelligence: Concepts and Applications",
+      "courseImage": "url_to_course_image_8.jpg",
+      "instructorName": "Lisa Taylor",
+      "courseContent": "Explore the world of artificial intelligence...",
+      "instructorImage": "url_to_instructor_image_8.jpg",
+      "reviews": [
+        {"username": "Student15", "comment": "Fascinating content!", "rating": 4.7},
+        {"username": "Student16", "comment": "Well-structured course.", "rating": 4.5}
+      ]
+    },
+    {
+     
+      "courseName": "Digital Marketing Strategies",
+      "courseImage": "url_to_course_image_9.jpg",
+      "instructorName": "Daniel White",
+      "courseContent": "Learn effective digital marketing strategies for success...",
+      "instructorImage": "url_to_instructor_image_9.jpg",
+      "reviews": [
+        {"username": "Student17", "comment": "Highly recommend for marketers.", "rating": 4.2},
+        {"username": "Student18", "comment": "Practical insights.", "rating": 4.8}
+      ]
+    },
+    {
+     
+      "courseName": "Entrepreneurship 101",
+      "courseImage": "url_to_course_image_10.jpg",
+      "instructorName": "Ryan Johnson",
+      "courseContent": "Essentials of starting and growing your own business...",
+      "instructorImage": "url_to_instructor_image_10.jpg",
+      "reviews": [
+        {"username": "Student19", "comment": "Great for aspiring entrepreneurs!", "rating": 4.5},
+        {"username": "Student20", "comment": "Instructor is inspiring.", "rating": 4.0}
+      ]
+    }
+  ]
+  

@@ -41,9 +41,7 @@ const Header = () => {
             </span>
             <span className="ml-2 text-slate-600">Search</span>
           </Button>
-          <Button size="sm" type="primary">
-            Contact
-          </Button>
+         <button className="border-2 py-1 px-6 rounded-2xl bg-red-500 text-white font-bold btn-outline btn ">LogIn</button>
           <Navbar.Toggle />
         </Navbar.Container>
       </Navbar.Container>
